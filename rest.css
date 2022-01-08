@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(14, 141, 238);
+    font-family: "lato", sans-serif;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: rgba(36, 34, 27, 0.788);
+    background-size: contain;
+    background-size: auto;
+}
+
+.btn-primary {
+    background-color: rgba(13, 109, 253, 0);
+}
